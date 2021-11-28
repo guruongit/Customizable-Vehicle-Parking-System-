@@ -1,0 +1,9 @@
+It is an Automated Customized Vehicle Parking System. It is optimized to give the shortest possible path from the entry gate 
+to allotted slot using Dijastra Algorithm. And to work with parking system with any order of parking slots and distances b/w them.
+In it we take each slot as nodes and distances as edges. 
+
+It is suitable for On street, Off street and Multi-level parking Lots. And also it tracks all the information of Parking like Fees, Vehicles, Vacant slots etc. 
+
+Using it public can know the availability of parking vacancies in Real-time. and also optmised to reduce the possibility of error while recording data.
+
+With it any parking owner can increase efficiency of parking slots and optimize duration management with the current Readily Deployable System.
